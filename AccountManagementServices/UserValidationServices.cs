@@ -1,4 +1,4 @@
-﻿namespace ParkingManagementServices
+﻿namespace WashingManagementServices
 {
     public class UserValidationServices
     {
