@@ -1,7 +1,7 @@
-﻿using ParkingManagementData;
-using ParkingManagementModels;
+﻿using WashingManagementData;
+using WashingManagementModels;
 
-namespace ParkingManagementServices
+namespace WashingManagementServices
 {
     public class UserTransactionServices
     {
