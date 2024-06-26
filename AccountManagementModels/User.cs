@@ -1,4 +1,4 @@
-﻿namespace ParkingManagementModels
+﻿namespace WashingManagementModels
 {
     public class User
     {
