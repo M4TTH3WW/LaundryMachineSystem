@@ -1,6 +1,6 @@
-﻿using ParkingManagementModels;
+﻿using WashingManagementModels;
 
-namespace ParkingManagementData
+namespace WashingManagementData
 {
     public class UserData
     {
