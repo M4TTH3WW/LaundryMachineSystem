@@ -4,9 +4,9 @@ using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using ParkingManagementModels;
+using WashingManagementModels;
 
-namespace ParkingManagementData
+namespace WashingManagementData
 {
     public class SqlDbData
     {
