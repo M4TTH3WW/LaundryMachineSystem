@@ -1,5 +1,5 @@
-using ParkingManagementData;
-using ParkingManagementModels;
+using WashingManagementData;
+using WashingManagementModels;
 using System;
 
 namespace Client
